@@ -54,7 +54,8 @@ docker run -p 8000:8000 financial-ai-backend
 ### 3. Run the Streamlit:
 
 ```bash
-streamlit run app.py
+- pip install streamlit requests
+- streamlit run app.py
 ```
 
 ## API Endpoints
