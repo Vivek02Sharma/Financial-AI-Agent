@@ -8,6 +8,4 @@ langchain-experimental
 tabulate
 openpyxl
 xlrd
-streamlit
-requests
 python-multipart
