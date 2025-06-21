@@ -1,0 +1,89 @@
+date,amount,category,description,account,type
+2024-01-01,3500.00,Income,Monthly Salary,Checking,Credit
+2024-01-01,-1200.00,Housing,Rent Payment,Checking,Debit
+2024-01-02,-85.50,Food,Grocery Shopping - Walmart,Checking,Debit
+2024-01-02,-45.00,Transport,Gas Station - Shell,Credit Card,Debit
+2024-01-03,-25.00,Food,Coffee Shop - Starbucks,Credit Card,Debit
+2024-01-03,-120.00,Utilities,Electric Bill,Checking,Debit
+2024-01-04,-200.00,Entertainment,Concert Tickets,Credit Card,Debit
+2024-01-05,-67.80,Food,Restaurant - Olive Garden,Credit Card,Debit
+2024-01-05,-35.00,Transport,Uber Ride,Credit Card,Debit
+2024-01-06,-150.00,Shopping,Clothing - Target,Credit Card,Debit
+2024-01-07,-40.00,Food,Takeout - Pizza Hut,Checking,Debit
+2024-01-08,-89.99,Shopping,Amazon Purchase,Credit Card,Debit
+2024-01-09,-55.00,Entertainment,Movie Theater,Credit Card,Debit
+2024-01-10,-75.00,Healthcare,Doctor Visit Co-pay,Checking,Debit
+2024-01-11,-30.00,Food,Lunch - Chipotle,Credit Card,Debit
+2024-01-12,-180.00,Utilities,Internet & Cable Bill,Checking,Debit
+2024-01-13,-95.00,Food,Grocery Shopping - Whole Foods,Checking,Debit
+2024-01-14,-22.00,Transport,Parking Fee,Checking,Debit
+2024-01-15,3500.00,Income,Monthly Salary,Checking,Credit
+2024-01-15,-60.00,Entertainment,Streaming Services,Credit Card,Debit
+2024-01-16,-110.00,Shopping,Pharmacy - CVS,Checking,Debit
+2024-01-17,-45.00,Food,Coffee & Breakfast,Credit Card,Debit
+2024-01-18,-250.00,Healthcare,Dental Cleaning,Checking,Debit
+2024-01-19,-80.00,Food,Dinner Date,Credit Card,Debit
+2024-01-20,-35.00,Transport,Gas Station - BP,Credit Card,Debit
+2024-01-21,-125.00,Shopping,Home Depot - Garden Supplies,Checking,Debit
+2024-01-22,-50.00,Food,Grocery Shopping - Local Market,Checking,Debit
+2024-01-23,-15.00,Food,Fast Food - McDonald's,Credit Card,Debit
+2024-01-24,-300.00,Shopping,Electronics - Best Buy,Credit Card,Debit
+2024-01-25,-90.00,Entertainment,Spa Treatment,Credit Card,Debit
+2024-01-26,-40.00,Transport,Car Wash,Checking,Debit
+2024-01-27,-65.00,Food,Restaurant - Mexican Grill,Credit Card,Debit
+2024-01-28,-200.00,Utilities,Phone Bill,Checking,Debit
+2024-01-29,-85.00,Food,Grocery Shopping - Trader Joe's,Checking,Debit
+2024-01-30,-100.00,Entertainment,Video Games,Credit Card,Debit
+2024-01-31,-75.00,Healthcare,Prescription Medication,Checking,Debit
+2024-02-01,3500.00,Income,Monthly Salary,Checking,Credit
+2024-02-01,-1200.00,Housing,Rent Payment,Checking,Debit
+2024-02-02,-90.00,Food,Grocery Shopping - Kroger,Checking,Debit
+2024-02-03,-50.00,Transport,Gas Station - Exxon,Credit Card,Debit
+2024-02-04,-120.00,Utilities,Water & Sewer Bill,Checking,Debit
+2024-02-05,-180.00,Entertainment,Weekend Trip - Hotel,Credit Card,Debit
+2024-02-06,-45.00,Food,Brunch - Local Cafe,Credit Card,Debit
+2024-02-07,-25.00,Transport,Bus Pass,Checking,Debit
+2024-02-08,-160.00,Shopping,Clothing - Mall,Credit Card,Debit
+2024-02-09,-35.00,Food,Ice Cream & Dessert,Credit Card,Debit
+2024-02-10,-95.00,Healthcare,Eye Exam,Checking,Debit
+2024-02-11,-70.00,Food,Dinner - Steakhouse,Credit Card,Debit
+2024-02-12,-30.00,Entertainment,Book Store,Checking,Debit
+2024-02-13,-110.00,Shopping,Grocery & Household Items,Checking,Debit
+2024-02-14,-150.00,Entertainment,Valentine's Day Dinner,Credit Card,Debit
+2024-02-15,3500.00,Income,Monthly Salary,Checking,Credit
+2024-02-15,-80.00,Food,Wine & Champagne,Credit Card,Debit
+2024-02-16,-45.00,Transport,Taxi Ride,Credit Card,Debit
+2024-02-17,-200.00,Healthcare,Physical Therapy,Checking,Debit
+2024-02-18,-55.00,Food,Sushi Restaurant,Credit Card,Debit
+2024-02-19,-40.00,Entertainment,Coffee & Pastries,Credit Card,Debit
+2024-02-20,-85.00,Shopping,Pet Supplies,Checking,Debit
+2024-02-21,-60.00,Food,Grocery Shopping - Aldi,Checking,Debit
+2024-02-22,-25.00,Transport,Parking Meter,Checking,Debit
+2024-02-23,-130.00,Utilities,Gas Bill,Checking,Debit
+2024-02-24,-75.00,Entertainment,Concert - Local Band,Credit Card,Debit
+2024-02-25,-95.00,Food,Family Dinner,Credit Card,Debit
+2024-02-26,-50.00,Shopping,Office Supplies,Checking,Debit
+2024-02-27,-35.00,Food,Coffee Shop Chain,Credit Card,Debit
+2024-02-28,-180.00,Healthcare,Monthly Medication,Checking,Debit
+2024-03-01,3500.00,Income,Monthly Salary,Checking,Credit
+2024-03-01,-1200.00,Housing,Rent Payment,Checking,Debit
+2024-03-02,-500.00,Savings,Emergency Fund Transfer,Savings,Transfer
+2024-03-03,-100.00,Food,Grocery Shopping - Costco,Checking,Debit
+2024-03-04,-65.00,Transport,Car Insurance,Checking,Debit
+2024-03-05,-45.00,Entertainment,Bowling Night,Credit Card,Debit
+2024-03-06,-80.00,Food,Thai Restaurant,Credit Card,Debit
+2024-03-07,-30.00,Transport,Gas Station - Local,Credit Card,Debit
+2024-03-08,-120.00,Shopping,Spring Clothing,Credit Card,Debit
+2024-03-09,-55.00,Food,Bakery & Cafe,Credit Card,Debit
+2024-03-10,-90.00,Healthcare,Chiropractor Visit,Checking,Debit
+2024-03-11,-40.00,Entertainment,Mini Golf,Credit Card,Debit
+2024-03-12,-70.00,Food,Italian Dinner,Credit Card,Debit
+2024-03-13,-25.00,Transport,Bike Rental,Credit Card,Debit
+2024-03-14,-160.00,Utilities,Combined Utility Bill,Checking,Debit
+2024-03-15,3500.00,Income,Monthly Salary,Checking,Credit
+2024-03-15,-200.00,Investment,Stock Purchase,Investment,Transfer
+2024-03-16,-85.00,Food,Weekend Groceries,Checking,Debit
+2024-03-17,-50.00,Entertainment,Art Museum,Credit Card,Debit
+2024-03-18,-110.00,Healthcare,Annual Checkup,Checking,Debit
+2024-03-19,-35.00,Food,Food Truck,Credit Card,Debit
+2024-03-20,-75.00,Shopping,Home Improvement,Checking,Debit

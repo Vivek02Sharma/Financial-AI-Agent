@@ -1,0 +1,6 @@
+venv/
+env/
+Test_Files/
+__pycache__/
+.env
+app.py

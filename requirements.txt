@@ -1,0 +1,13 @@
+pandas
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+langchain-experimental
+tabulate
+openpyxl
+xlrd
+streamlit
+requests
+python-multipart
