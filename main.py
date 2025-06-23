@@ -46,16 +46,15 @@ async def user_query(request: QueryRequest):
     
     result = await query_financial_data(request.prompt, df)
     # print(result)
-    if result is None:
+    if isinstance(result, dict) and "error" in result:
         return QueryResponse(
             status = "error",
             result = None,
-            message = str(result)
+            message = result["error"]
         )
-    else:
-        return QueryResponse(
-            status = "success",
-            result = {"response": result},
-            message = "Query executed successfully."
-        )
-
+    
+    return QueryResponse(
+        status = "success",
+        result = {"response": result},
+        message = "Query executed successfully."
+    )

@@ -27,4 +27,4 @@ async def query_financial_data(prompt: str, df: pd.DataFrame) -> dict:
         # print(result)
         return result
     except Exception as e:
-        return e
+         return {"error": str(e)}
