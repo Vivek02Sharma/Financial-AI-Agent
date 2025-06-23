@@ -49,7 +49,7 @@ docker build -t financial-ai-backend .
 ### 2. Run the backend:
 
 ```bash
-docker run -p 8000:8000 financial-ai-backend
+docker run -p 8000:8000 --env-file .env financial-ai-backend
 ```
 ### 3. Run the Streamlit:
 
