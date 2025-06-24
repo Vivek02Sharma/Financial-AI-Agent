@@ -10,6 +10,11 @@ load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 MODEL_NAME = "llama3-70b-8192"
+system_prompt = """You are a financial data assistant.
+                   Analyze uploaded data such as transactions, budgets, or financial statements.
+                   Focus on identifying trends, anomalies, summaries, and insights related to income, expenses, savings, and investments.
+                   Respond with clear, relevant analysis in financial context.
+                   If the user query is unclear, ask for clarification."""
 
 async def query_financial_data(prompt: str, df: pd.DataFrame) -> dict:
     try:
@@ -20,7 +25,8 @@ async def query_financial_data(prompt: str, df: pd.DataFrame) -> dict:
             df = df,
             agent_type = AgentType.ZERO_SHOT_REACT_DESCRIPTION,
             verbose = True,
-            allow_dangerous_code = True
+            allow_dangerous_code = True,
+            prefix = system_prompt
         )
 
         result = agent.invoke(prompt)
