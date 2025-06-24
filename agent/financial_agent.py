@@ -16,7 +16,7 @@ system_prompt = """You are a financial data assistant.
                    Respond with clear, relevant analysis in financial context.
                    If the user query is unclear, ask for clarification."""
 
-async def query_financial_data(prompt: str, df: pd.DataFrame) -> dict:
+def query_financial_data(prompt: str, df: pd.DataFrame) -> dict:
     try:
         llm = ChatGroq(groq_api_key = GROQ_API_KEY, model_name = MODEL_NAME, temperature = 0)
 
